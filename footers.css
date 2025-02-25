@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+body{
+   font-family: 'Times New Roman', Times, serif;
+}
+
+
+.container-fluid{
+    background-color: #373A40;
+
+    
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 8%;
+    background-color: #151515;
+    color: white;
+    text-align: center;
+ }
+
+ label{
+    font-size: xx-large;
+    padding-right: 25px;
+ }
+
+ button{
+    
+    border: none;
+    padding-left: 50px;
+    padding-right: 50px
+
+ }
+
